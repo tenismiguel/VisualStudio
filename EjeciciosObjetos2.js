@@ -21,6 +21,7 @@ function ejer1() {
             this.hermanos.push(hermano);
         }
 
+        
     }
 
 

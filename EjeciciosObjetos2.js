@@ -19,9 +19,9 @@ function ejer1() {
 
         this.add_hermano = function (hermano) {
             this.hermanos.push(hermano);
-        }
+        } 
 
-        
+
     }
 
 
